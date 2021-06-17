@@ -1,6 +1,6 @@
 {
-  "name": "AutoCaption_Ts_Bot-Clone",
-  "description": "Telegram auto caption bot. Create your Fork now.",
+  "name": "BX Auto Caption Bot V2",
+  "description": "Telegram auto caption bot.",
   "keywords": [
     "telegram",
     "best",
@@ -30,15 +30,15 @@
     },
     "ADMIN_ID": {
       "description": "Your user ID like 1223445566",
-      "value": ""      
+      "value": "1247076052"      
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [Enter top or bottom or nil]",
-      "value": ""
+      "value": "bottom"
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "Ts_bots", 
+      "value": "Mufaz123", 
       "required": false
     }        
     
