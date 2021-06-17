@@ -19,11 +19,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 start_button=InlineKeyboardMarkup(
         [
               [
-                  InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
+                  InlineKeyboardButton("🤖 Bot Status", callback_data = "status_data")
               ], 
               [
-                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/Ts_bots"), 
-                  InlineKeyboardButton("📕 ABOUT", callback_data = "about_data")
+                  InlineKeyboardButton("📫 Updates", url = "https://t.me/BX_Bots"), 
+                  InlineKeyboardButton("About 🔰", callback_data = "about_data")
               ], 
               [
                   InlineKeyboardButton("💡 HELP", callback_data = "help_data"), 
@@ -159,11 +159,11 @@ async def button(bot, cmd: CallbackQuery):
                    [
                       
                        [
-                        InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
+                        InlineKeyboardButton("🤖 Bot Status", callback_data = "status_data")
                        ], 
                        [
-                        InlineKeyboardButton("📫 UPDATES", url="https://t.me/ts_bots"),
-                        InlineKeyboardButton("📕 ABOUT ME", callback_data="about_data")
+                        InlineKeyboardButton("📫 Updates", url="https://t.me/BX_Bots"),
+                        InlineKeyboardButton("About Me 🔰", callback_data="about_data")
                        ],
                        [
                         InlineKeyboardButton("💡 HELP", callback_data="help_data"),
