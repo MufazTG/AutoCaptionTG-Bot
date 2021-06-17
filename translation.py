@@ -78,7 +78,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
+📌 <code>[hyperlink_text](https://t.me/BX_Botz)</code> 
 
 <b><a href="https://t.me/bx_botz">©️ ʙx ʙᴏᴛᴢ</a></b>
 
