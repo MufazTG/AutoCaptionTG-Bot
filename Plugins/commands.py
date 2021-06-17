@@ -22,7 +22,7 @@ start_button=InlineKeyboardMarkup(
                   InlineKeyboardButton("🤖 Bot Status", callback_data = "status_data")
               ], 
               [
-                  InlineKeyboardButton("📫 Updates", url = "https://t.me/BX_Bots"), 
+                  InlineKeyboardButton("📫 Updates", url = "https://t.me/BX_Botz"), 
                   InlineKeyboardButton("About 🔰", callback_data = "about_data")
               ], 
               [
@@ -162,7 +162,7 @@ async def button(bot, cmd: CallbackQuery):
                         InlineKeyboardButton("🤖 Bot Status", callback_data = "status_data")
                        ], 
                        [
-                        InlineKeyboardButton("📫 Updates", url="https://t.me/BX_Bots"),
+                        InlineKeyboardButton("📫 Updates", url="https://t.me/BX_Botz"),
                         InlineKeyboardButton("About Me 🔰", callback_data="about_data")
                        ],
                        [
