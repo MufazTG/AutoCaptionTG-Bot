@@ -12,7 +12,8 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MufazTG/AutoCaptionTG-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufazTG/AutoCaptionTG-Bot)
+
 
 
 
