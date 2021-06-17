@@ -1,15 +1,20 @@
-# AutoCaption Bot #V2.0
+# AutoCaption Bot
 
 
 An open source of telegram Auto Caption bot
 
 - For demo you can check the <b>[AutoCaption Bot #V2.0](https://telegram.me/BXAutoCaptionBot)</b>
+# Deploy To Heroku
 
-# About Bot
+You can deploy the bot using heroku
 
-This is a light weight and fastest Auto caption bot which can add caption prescribed by the admin of bot
+- 🥰 Fork it and deploy
+ 
+- 👇 Press the deploy button.
 
-<i>( Works only in private or public Channel )</i> 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MufazTG/AutoCaptionTG-Bot)
+
+
 
 ### Commands
 
@@ -37,11 +42,3 @@ CAPTION_POSITION - Position of your caption
 
 (nil - will overwrite the caption)
 ```
-You can deploy the bot using heroku
-
-- 🥰 Fork it and deploy
- 
-- 👇 Press the deploy button.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MufazTG/AutoCaptionTG-Bot)
-
